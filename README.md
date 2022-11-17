@@ -24,3 +24,5 @@
  - 2. adım. Dizideki en küçük 2. sayıyı bulup 2. sıradaki sayı ile yer değiştiriyoruz.  [2,3,5,8,7,9,4,15,6]
  - 3. adım. Dizideki en küçük 3. sayıyı bulup 3. sıradaki sayı ile yer değiştiriyoruz.  [2,3,4,8,7,9,5,15,6]
  - 4. adım. Dizideki en küçük 4. sayıyı bulup 4. sıradaki sayı ile yer değiştiriyoruz.  [2,3,4,5,7,9,8,15,6]
+
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
